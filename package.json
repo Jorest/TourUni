@@ -16,7 +16,7 @@
     "scripts": {
         "test": "testem ci",
         "livetest": "testem",
-        "dev": "bash scripts/dev",
+        "dev": "scripts/dev",
         "release": "scripts/release",
         "deploy": "scripts/deploy",
         "prepublishOnly": "scripts/prepublish"
